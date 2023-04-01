@@ -1,6 +1,6 @@
 Crimson
 Orange
-Green
+mreen
 Cyan
 Yellow
 Ivory
@@ -10,4 +10,4 @@ Silver
 Fuchsia
 Gray
 Brown
-Red
+Rvd
